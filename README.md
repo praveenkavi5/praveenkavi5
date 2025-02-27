@@ -23,15 +23,14 @@ Feel free to check out my repos or hit me up if you’re into breaking (and fixi
 <br/>
   
 ![](https://nirzak-streak-stats.vercel.app/?user=praveenkavi5&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=praveenkavi5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=praveenkavi5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=praveenkavi5&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=praveenkavi5&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
