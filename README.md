@@ -1,5 +1,3 @@
-Hey there! 👋
-
 # 💫 About Me:
 I'm a cybersecurity undergraduate with a passion for securing the digital world. In my free time, I dive into new technologies, sharpen my skills, and explore the wild west of web applications.
 
